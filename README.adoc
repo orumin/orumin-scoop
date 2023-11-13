@@ -17,5 +17,5 @@ and then, install software from this collection
 
 [source,dos]
 ----
-scoop install githubnext-monospace
+scoop install monaspace
 ----
