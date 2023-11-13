@@ -1,0 +1,21 @@
+= orumin's Scoop bucket
+
+This is personally software package repository for [Scoop](https://scoop.sh)
+
+Package receipt is licensed by MIT LICENSE
+
+== Installation
+
+add bucket to your scoop
+
+[source,dos]
+----
+scoop bucket add orumin-scoop https://github.com/orumin/orumin-scoop
+----
+
+and then, install software from this collection
+
+[source,dos]
+----
+scoop install githubnext-monospace
+----
