@@ -1,11 +1,11 @@
 {
-    "version": "1.000",
+    "version": "1.101",
     "description": "An innovative superfamily of fonts for code",
     "homepage": "https://monaspace.githubnext.com",
     "license": "OFL-1.1",
-    "url": "https://github.com/githubnext/monaspace/releases/download/v1.000/monaspace-v1.000.zip",
-    "hash": "3E08376FD0AECA1F851FDE0C08E18CA2D797F6A4C7A449670BF4D1270303C8F6",
-    "extract_dir": "monaspace-v1.000/fonts/otf",
+    "url": "https://github.com/githubnext/monaspace/releases/download/v1.101/monaspace-v1.101.zip",
+    "hash": "7ff2317c7bdaed8e81dcbe1314e6ab12ad9641b7ddf921e996a227ff4ec7752f",
+    "extract_dir": "monaspace-v1.101/fonts/otf",
     "installer": {
         "script": [
             "$currentBuildNumber = [int] (Get-ItemProperty \"HKLM:\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\").CurrentBuildNumber",
